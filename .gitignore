@@ -1,0 +1,18 @@
+# Ignore build directories
+/build/
+/obj/
+
+# Ignore object files and binaries
+*.o
+*.out
+*.bin
+*.elf
+*.map
+*.img
+
+# Ignore log files
+*.log
+
+# Ignore IDE or editor-specific files (if any)
+.vscode/
+.idea/
